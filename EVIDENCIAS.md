@@ -2,9 +2,9 @@
 
 ## Evidencias del grupo
 
-- URL del repositorio GitHub: https://github.com/pabloserdioibanez/gestor-tareas/tree/develop
+- URL del repositorio GitHub:
 - PR feature/anadir-tarea -> develop:
-- PR feature/eliminar-tarea -> develop: https://github.com/pabloserdioibanez/gestor-tareas/pull/1
+- PR feature/eliminar-tarea -> develop:
 - PR feature/completar-tarea -> develop:
 - PR feature/filtrar-tareas -> develop:
 - PR develop -> main:
